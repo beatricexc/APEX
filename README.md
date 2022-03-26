@@ -1,8 +1,10 @@
 # Oracle APEX (Application Express)
 
 
-SELECT 
+SELECT
+
 FROM
+
 WHERE
 
 
